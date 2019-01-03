@@ -1,0 +1,2 @@
+def funn():
+  return "no"
